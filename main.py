@@ -153,7 +153,7 @@ def open_proc():
 
     # Если аргументы неверные
     else:
-        print("Wrong arguments: -int must be numeric")
+        print("Wrong arguments")
 
 
 if __name__ == "__main__":
