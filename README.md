@@ -1,4 +1,4 @@
-# test_task
+# Work with process
 Аргументы CMD:
 
 -p/--path " *path_to_exe* "   -- Путь до файла, обязательный аргумент
